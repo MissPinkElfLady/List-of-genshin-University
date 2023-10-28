@@ -95,6 +95,7 @@
 | [www.山西原神大学.com](http://www.山西原神大学.com) | 中北大学 |
 | [www.澳门原神大学.cn](http://www.澳门原神大学.cn) | 澳门城市大学 |
 | [www.苏州原神大学.com](https://www.xjtlu.edu.cn) | 西交利物浦大学 |
+| [www.新泽西原神大学.com](https://www.新泽西原神大学.com) | 普林斯顿大学 |
 
 ## 联系方式
 
